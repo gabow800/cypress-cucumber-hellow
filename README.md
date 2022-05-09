@@ -1,6 +1,7 @@
 # Cypress and cucumber
 
-This is an example of how to integrate Cypress with Cucumber using the [cypress-cucumber-preprocessor]() plugin.
+This is an example of how to integrate Cypress with Cucumber using the [cypress-cucumber-preprocessor](https://github.com/badeball/cypress-cucumber-preprocessor) 
+plugin.
 
 With this setup you can write your test cases with Gherkin syntax and run them with Cypress.
 
